@@ -1,0 +1,8 @@
+.selected {
+    color: green;
+}
+
+/* Define styles for rejected status */
+.rejected {
+    color: red;
+}
